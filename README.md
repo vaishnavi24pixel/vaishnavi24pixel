@@ -19,7 +19,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/vaishnavi-sharma-a3a51b309)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/vaishnavi-sharma-a3a51b309/])
 - 💻 [GitHub](https://github.com/vaishnavi24pixel)
 - ✉️ Email: vaishnavishm082@gmail.com
 
